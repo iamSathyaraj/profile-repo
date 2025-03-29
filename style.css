@@ -17,10 +17,7 @@
     font-weight: 800px;
     cursor: pointer;
     text-decoration: none;
-}
-.home  {
- background-image: url(/WhatsApp\ Image\ 2025-03-29\ at\ 00.28.38_8600923b.jpg)no-repeat;
- background-size: cover;
+
 
 
 }
@@ -47,8 +44,8 @@
 
 
 .img-fluid{
-    height: 350px;
-    width: 350px;
+    height: 400px;
+    width: 380px;
     box-shadow: 0 0 40PX 5px;
     cursor: pointer;
 }
